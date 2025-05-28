@@ -19,14 +19,16 @@ body {
 
 
 nav img{
-    width: 4rem;
+    width: 4em;
     
-    padding: 1.2rem;
  
 }
 nav{
     display: flex;
-    flex-direction: row-reverse;
+    justify-content: space-between;
+
+    
+    
 }
 
 header h2 {
@@ -123,10 +125,15 @@ header {
 }
 
 .logotipo img {
-    height: 8rem;
+    height: 6rem;
     width: 16rem;
 
 }
+.hum {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
 
 .menuprincipal {
     display: flex;
@@ -137,13 +144,19 @@ header {
     
 
 }
+nav .menu{
+    display: none;
+}
+nav:hover .menu{
+    display: block;
+}
 
 .contato p {
-    
+    width: 26rem;
     color: #fff;
     background-color: #18d711;
     padding: 2rem;
-    font-size: 1px;
+    font-size: 1.5rem;
     border-radius: 10px;
 
 }

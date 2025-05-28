@@ -17,6 +17,10 @@
         
       
     }
+    .hum{
+        display: flex;
+        flex-direction: column;
+    }
     .contato p{
         width: 11rem;
         font-size: 1rem;
