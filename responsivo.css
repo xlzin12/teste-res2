@@ -1,0 +1,203 @@
+@media (min-width:320px) and (max-width: 480px) {
+ 
+    
+    header  {
+
+        
+        width: 100%;  
+        padding-left: 1rem; 
+        
+      
+    }
+      .menuprincipal1 p {
+        display: flex;
+        flex-direction: column;
+        font-size: 44px;
+      
+        
+      
+    }
+    .contato p{
+        width: 11rem;
+        font-size: 1rem;
+    }
+    li a{
+        width: 10%;
+    }
+    .menuprincipal1 h2 {
+        font-size: 1.7rem;
+        width: 100%;
+       
+    }
+    .menuprincipal1 a{
+        font-size: 2rem;
+        width: 100%;
+      
+    }
+   .descricao1 h2{
+    width:100% ;  
+   }
+.menuprincipal{
+    display: flex;
+flex-direction: column;
+
+}
+.menuprincipal1{
+    display: flex;
+    flex-direction: column;
+}
+
+nav{
+    display: flex;
+       flex-direction: column;
+}
+.menuprincipal li{
+  
+    margin:.5rem 0;
+   
+}
+.diferenciais{
+   
+    gap: 2rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+padding-left:9rem;
+    width:19.4%;
+    float: left ;
+    
+}
+.diferenciais .iitem{
+    
+    display: flex;
+    flex-direction: column;
+
+ 
+    
+}
+.iitem img{
+    
+    width: 90%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+    
+   
+}
+.diferenciais p{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 2rem;
+
+}
+.diferenciais h2{
+ font-size: 2rem;
+
+}
+
+
+.res1{
+  text-align: center;
+}
+
+.produto2{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+}
+.produto{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+}
+.item {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    background-image: linear-gradient(#2b337c, #0c113a, black);
+    text-align: center;
+    border-radius: 2rem;
+    font-size: 100px;
+
+    
+  
+}
+
+.pro img{
+    width: 67vw;
+    border-radius: 1rem;
+}
+.pro br{
+    display: none;
+}
+.pro p{
+    display: flex;
+    justify-content: center;
+    font-size: 30%;
+   line-height: 2.3rem;
+    
+}
+.pro h2{
+    font-size: 1rem;
+
+}
+.pro .item{
+    width: 18rem;
+  
+}
+.contato5{
+    display: flex;
+    flex-direction: column;
+}
+.efeito{
+   background: url('img2/4h21kow8_1584452262.webp') 50% / cover no-repeat fixed;
+   width: 100%;
+   text-align: center;
+   }
+   .contato1 a{
+    width: 100%;
+   }
+
+.depoimentos{
+    display: flex;
+    flex-direction: column;
+    
+}
+.de-item2 img{
+
+    width: 4rem;
+    height: 4rem;
+}
+.de-item2{
+    font-size: 2rem;
+    justify-content: center;
+    width: 85%;
+    height: 17rem;
+}
+.avaliacao p{
+    display: flex;
+    text-align: center;
+    
+    font-size: 2rem;
+}
+.duvidas{
+    width: 100%;
+       
+}
+.avaliacao p{
+    display: flex;
+
+}
+
+
+.contato5{
+    width: 100%;
+   
+    
+}
+
+}
+/* 768 */
+
