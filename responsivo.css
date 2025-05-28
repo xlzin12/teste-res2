@@ -67,7 +67,8 @@ nav{
     display: flex;
     flex-direction: column;
 padding-left:9rem;
-    width:19.4%;
+
+    width:18.4vw;
     float: left ;
     
 }
@@ -98,6 +99,10 @@ padding-left:9rem;
 }
 .diferenciais h2{
  font-size: 2rem;
+     display: flex
+;
+    justify-content: center;
+}
 
 }
 
@@ -179,6 +184,7 @@ padding-left:9rem;
     justify-content: center;
     width: 85%;
     height: 17rem;
+     margin-bottom: 4rem;
 }
 .avaliacao p{
     display: flex;
@@ -190,6 +196,7 @@ padding-left:9rem;
     width: 100%;
        
 }
+
 .avaliacao p{
     display: flex;
 
@@ -202,6 +209,6 @@ padding-left:9rem;
     
 }
 
-}
+
 /* 768 */
 
